@@ -1,34 +1,92 @@
+<div align="center">
+
 # Bharath Kumar
 
-## Professional Profile
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharath29022000&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/bharath29022000)
+### Full-Stack Developer · Backend Systems · Modern Web Applications
 
-## Badges
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=fff)](https://spring.io/projects/spring-boot)
-[![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactjs.org/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)](https://aws.amazon.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)](https://redis.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
+I build reliable, maintainable full-stack applications with strong backend foundations, clear APIs, resilient asynchronous workflows, and polished user experiences.
 
-## Skills
-- Full Stack Development
-- Web Development
-- Machine Learning
-- Open Source Contributions
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kumar-5719b6184)
 
-## Featured Projects
-- **Resilient Async Analysis Workflow** — Designed fault-tolerant job processing with Node.js, ZeroMQ, optional MongoDB persistence, and a Next.js/React interface. Implemented clear terminal success and failure states, exact worker-error propagation, and integration tests for database-unavailable behavior.
+</div>
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath29022000&layout=compact&theme=radical)](https://github.com/bharath29022000)
+## Professional Summary
 
-## Contact Information
-- [LinkedIn](https://www.linkedin.com/in/bharath-kumar-5719b6184) 
+- Full-stack developer working across **Java/Spring Boot**, **Node.js/TypeScript**, and **React/Next.js**.
+- Comfortable designing REST APIs, asynchronous worker flows, database-backed services, and responsive interfaces.
+- Focused on reliability, readable architecture, automated testing, explicit error handling, and clear user feedback.
+- Able to take a feature from backend design through frontend delivery, integration testing, and production build verification.
 
-*Last updated on 2026-04-07 15:40:14 UTC*
+## Technology Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Data & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Featured Engineering Work
+
+### Resilient Async Analysis Workflow
+
+Designed a full-stack asynchronous job workflow that remains reliable when optional database persistence is unavailable.
+
+- Added cross-process progress and terminal-result delivery with Node.js and ZeroMQ.
+- Preserved both success and failure states end-to-end, including exact worker-error propagation.
+- Implemented clear React UI state transitions so progress stops at terminal states and users receive actionable feedback.
+- Added integration coverage for database-unavailable success and failure paths, then verified lint and production builds.
+
+**Technologies:** Node.js · ZeroMQ · MongoDB · Next.js · React · TypeScript
+
+### [Awesome Web App](https://github.com/bharath29022000/awesome-web-app)
+
+A full-stack web application with a React frontend and Node.js/Express API, backed by MongoDB.
+
+- JWT-based authentication and authorization.
+- RESTful CRUD endpoints and frontend API integration.
+- Responsive interface and container-based local setup.
+
+**Technologies:** React · Node.js · Express · MongoDB · Docker
+
+## Engineering Strengths
+
+- Backend and REST API design
+- Asynchronous processing and failure propagation
+- Relational and document database integration
+- Frontend state management and user feedback
+- Integration testing, debugging, and build verification
+- Maintainable code and clear technical documentation
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharath29022000&show_icons=true&hide_title=true&count_private=true&theme=transparent)](https://github.com/bharath29022000)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath29022000&layout=compact&theme=transparent)](https://github.com/bharath29022000)
+
+</div>
+
+## Connect
+
+- [LinkedIn — Bharath Kumar](https://www.linkedin.com/in/bharath-kumar-5719b6184)
+- Explore my repositories and engineering work here on GitHub.
