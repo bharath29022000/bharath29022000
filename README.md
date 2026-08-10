@@ -57,15 +57,6 @@ Designed a full-stack asynchronous job workflow that remains reliable when optio
 
 **Technologies:** Node.js · ZeroMQ · MongoDB · Next.js · React · TypeScript
 
-### [Awesome Web App](https://github.com/bharath29022000/awesome-web-app)
-
-A full-stack web application with a React frontend and Node.js/Express API, backed by MongoDB.
-
-- JWT-based authentication and authorization.
-- RESTful CRUD endpoints and frontend API integration.
-- Responsive interface and container-based local setup.
-
-**Technologies:** React · Node.js · Express · MongoDB · Docker
 
 ## Engineering Strengths
 
