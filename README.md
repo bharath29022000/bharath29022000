@@ -23,9 +23,7 @@
 - Open Source Contributions
 
 ## Featured Projects
-- Project 1: Description
-- Project 2: Description
-- Project 3: Description
+- **Resilient Async Analysis Workflow** — Designed fault-tolerant job processing with Node.js, ZeroMQ, optional MongoDB persistence, and a Next.js/React interface. Implemented clear terminal success and failure states, exact worker-error propagation, and integration tests for database-unavailable behavior.
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath29022000&layout=compact&theme=radical)](https://github.com/bharath29022000)
